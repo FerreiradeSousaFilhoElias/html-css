@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(36, 32, 32);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+a{
+    color: white;
+}
